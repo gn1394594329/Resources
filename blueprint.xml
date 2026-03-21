@@ -22,7 +22,7 @@
 				<Opcode Name="EventPlay64" Id="0" />
 			</Opcodes>
 		</Region>
-		<Region Name="CN" Version="2026.03.12.0000.0000">
+		<Region Name="TC" Version="2026.03.12.0000.0000">
 			<Opcodes>
 				<Opcode Name="StatusEffectList" Id="340" />
 				<Opcode Name="StatusEffectList2" Id="197" />
@@ -38,7 +38,7 @@
 				<Opcode Name="ActorControl" Id="573" />
 				<Opcode Name="ActorControlSelf" Id="279" />
 				<Opcode Name="ActorControlTarget" Id="408" />
-				<Opcode Name="MapEffect" Id="0" />
+				<Opcode Name="MapEffect" Id="774" />
 				<Opcode Name="EventPlay" Id="0" />
 				<Opcode Name="EventPlay64" Id="0" />
 			</Opcodes>
